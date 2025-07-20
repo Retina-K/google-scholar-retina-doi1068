@@ -1,2 +1,5 @@
 # google-scholar-retina-doi1068
-HTML summary page for the reply publication in Retina (DOI: 10.1097/IAE.0000000000001068). Includes metadata tags for Google Scholar indexing, abstract, author info, and access links.
+
+This repository hosts a structured HTML summary page for the reply publication in *Retina* (DOI: 10.1097/IAE.0000000000001068).  
+It includes citation metadata, abstract, author information, and links to the publisher’s official page and image snapshot.  
+The page is optimized for Google Scholar indexing via GitHub Pages.
